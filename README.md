@@ -83,5 +83,13 @@ I build games and interactive systems using **Unity and C#**, focusing on:
 💼 Project: https://diabcalc.com  
 
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=koderhack&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koderhack&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=koderhack&theme=tokyonight&hide_border=true)
+
+---
 > I build systems that combine AI, backend engineering and interactive experiences.
